@@ -7,9 +7,15 @@ This app is designed to help maintainers understand a contributors history with 
 ## Getting Started
 
 This application requires a GitHub Personal Access Token to be set in the .env file.
-Directions on generating a PAT are available in the [GitHub Documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) 
+Directions on generating a PAT are available in the [GitHub Documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
 
-First, run the development server:
+First you have to install the dependencies:
+
+```bash
+npm install
+```
+
+Than you can run the development server:
 
 ```bash
 npm run dev
