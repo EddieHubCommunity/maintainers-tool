@@ -12,7 +12,7 @@ Directions on generating a PAT are available in the [GitHub Documentation](https
 First you have to install the dependencies:
 
 ```bash
-npm install
+npm ci
 ```
 
 Than you can run the development server:
