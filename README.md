@@ -1,4 +1,4 @@
-# Maintainer Helper
+# Maintainers Tool
 
 ## Purpose
 
